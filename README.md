@@ -5,7 +5,7 @@ Movie Recommendation in ML
 
 Activation Functions:
 
-![1](activation_function.PNG)
+![1](activation_functions.PNG)
 
 
 Epochs:
